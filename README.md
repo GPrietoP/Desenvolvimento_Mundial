@@ -1,6 +1,6 @@
 # Desenvolvimento_Mundial
 
-Programa que apresenta um gráfico de PIB per capita por Expectativa de vida e representa o tamanho da população atrave´s do tamanho dos círculos.
+Programa que apresenta um gráfico de PIB per capita por Expectativa de vida e representa o tamanho da população através do tamanho dos círculos.
 
 # Resultado
 
